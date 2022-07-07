@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  ##
+ ##
 
 <div style align="center" >
   <a href="https://github.com/FerTk1">
