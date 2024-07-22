@@ -1,12 +1,5 @@
 ## Olá! Sou Fernando Rodrigues ✌🏻✌🏻✌🏻
 
-- 🔭 Atualmente estou em busca de uma nova oportunidade;
-- 🌱 Atualmente estou aprendendo JavaScript e React-Native;
-- 🤔 Estou procurando ajuda para obter mais conhecimento e com isso ajudar as pessoas também com a dificuldade de se enquadrar no mundo dos dev's; 
-- 💬 Pode me perguntar sobre qualquer coisa estarei disposto a responder;
-- 📫 Para chegar até a mim, só me mandar um direct em qualquer rede social a baixo nos botões 👇🏻👇🏻👇🏻;
-- ⚡ Tenho curiosida em tudo relacionado programação, pois sei que cada conhecimento nos agrega grandemente.
-
  ##
 
 <div style align="center" >
@@ -21,6 +14,7 @@
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
 
